@@ -1,0 +1,9 @@
+Makefile
+build
+objs/
+
+third/lua-cjson-2.1.0/
+third/lua-resty-core-0.1.28/
+third/lua-resty-lrucache-0.13/
+third/openssl-1.1.1w/
+
